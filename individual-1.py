@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 from random import randint
 # создали список из рандомных чисел
 list = [(randint(1, 100)) for _ in range(31)]
